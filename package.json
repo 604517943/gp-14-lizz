@@ -1,0 +1,24 @@
+{
+  "name": "lizz",
+  "version": "2.3.9",
+  "description": "npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "gp",
+    "14",
+    "lzz",
+    "chunk"
+  ],
+  "author": "q604517943@163.com",
+  "license": "ISC",
+  "dependencies": {
+    "lodash":"^4.17.15"
+  }
+}
